@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "save": "^2.9.0"
+  }
+}
