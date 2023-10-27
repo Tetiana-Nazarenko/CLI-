@@ -9,10 +9,10 @@
         "dev": "nodemon index"
     },
     "keywords": [],
-    "author": "Viktor Svertoka <victor.svertoka@gmail.com>",
+    "author": "Tetiana-Nazarenko",
     "license": "ISC",
     "dependencies": {
-        "commander": "^11.0.0",
+        "commander": "^11.1.0",
         "cors": "^2.8.5",
         "express": "^4.18.2",
         "nanoid": "3.3.4"
